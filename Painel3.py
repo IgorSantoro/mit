@@ -222,7 +222,7 @@ logger = logging.getLogger(__name__)
 # CONSTANTES
 # --------------------------
 CAMINHO = "base.xlsx"
-CAMINHO_PERDCOMP = r"C:\Users\iss55\igor\MIT\PERDCOMP"
+CAMINHO_PERDCOMP = "PERDCOMP"
 
 MAPEAMENTO_CODIGOS = {
     "IRPJ":    ["0220","0231","0507","1599","2089","2362","2430","2456","3373","5625","5993","7756"],
